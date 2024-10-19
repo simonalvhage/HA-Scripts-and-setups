@@ -1,7 +1,7 @@
 ---
 
 blueprint:
-  source_url: 
+  source_url: https://raw.githubusercontent.com/simonalvhage/HA-Scripts-and-setups/refs/heads/main/ikea_styrbar_warmwhite.yaml
 
   name: ZHA - IKEA TRADFRI - STYRBAR - Warm White Lights
 
